@@ -173,6 +173,10 @@ text-transform: uppercase;
 padding: 10px 0 0 0;
 margin: 0;
 }
-.border{
-    border-left: 6px solid red;
+.bord{
+    border-left: 1px solid #bebebe;
+}
+.bord-1{
+    border-left: 1px solid #bebebe;
+      border-right: 1px solid #bebebe;
 }
