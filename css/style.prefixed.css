@@ -552,4 +552,86 @@ body {
 .circle-container-1 {
   margin: 50px 0 0 0;
 }
+
+.flex-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.justify-space-between {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.logo {
+  padding: 50px 0 50px 0;
+}
+
+.spc {
+  padding: 0 10px 0 10px;
+}
+
+.well {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  border-radius: 4px;
+  margin: 0 0 0 20px;
+  padding: 40px;
+}
+
+.title-pri {
+  color: #242424;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+
+.title-pri-1 {
+  color: #242424;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.para-pri {
+  color: #aeaeae;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  text-transform: uppercase;
+}
+
+.para-pri-1 {
+  color: #7e7e7e;
+  font-family: Montserrat;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 13px;
+}
+
+.btn-primary-1 {
+  background-color: #373737;
+  border-color: #373737;
+  width: 129px;
+  height: 48px;
+  font-family: Montserrat;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.btn-primary-1:hover {
+  background-color: #b88b58;
+  border-color: #b88b58;
+}
 /*# sourceMappingURL=style.prefixed.css.map */
