@@ -562,9 +562,43 @@ line-height: 13px;
   border-color: #b88b58;
 }
 // PREMIUM ---------------------------------------------------
+.marg-2{
+  margin: 60px 0 50px 0;
+}
 .prem-tit{
+  color: #242424;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;;
+}
+.prem-para{
   color: #5b5b5b;
   font-family: Montserrat;
   font-size: 14px;
   font-weight: 300;
+}
+.prem{
+  position: absolute;
+  top: 0px;
+  left: -60px;
+}
+.cont-premium{
+  margin: 0 0 0 80px;
+}
+.hr-cl{
+  background-color: #bebebe;
+}
+.circle-container-2{
+  display: flex;
+  justify-content: center;
+  margin: 40px 0 0 0;
+}
+.butto-3{
+  display: flex;
+  justify-content: center;
+  padding: 40px 0 0 0;
+  color: #ffffff;
+  margin-bottom: 40px;
 }
