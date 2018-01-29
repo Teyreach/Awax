@@ -439,58 +439,12 @@ body {
   background: #0094BC;
 }
 
-.social .fa-flickr:hover {
-  background: #FF57AE;
-}
-
 .social .fa-instagram:hover {
   background: #375989;
 }
-
-.social .fa-vimeo-square:hover {
-  background: #83DAEB;
-}
-
-.social .fa-stack-overflow:hover {
-  background: #FEA501;
-}
-
-.social .fa-dropbox:hover {
-  background: #017FE5;
-}
-
-.social .fa-tumblr:hover {
-  background: #3a5876;
-}
-
-.social .fa-dribbble:hover {
-  background: #F46899;
-}
-
-.social .fa-skype:hover {
-  background: #00C6FF;
-}
-
-.social .fa-stack-exchange:hover {
-  background: #4D86C9;
-}
-
 .social .fa-youtube:hover {
   background: #FF1F25;
 }
-
-.social .fa-xing:hover {
-  background: #005C5E;
-}
-
-.social .fa-rss:hover {
-  background: #e88845;
-}
-
-.social .fa-foursquare:hover {
-  background: #09B9E0;
-}
-
 .social .fa-youtube-play:hover {
   background: #DF192A;
 }
@@ -681,6 +635,79 @@ body {
   padding: 40px 0 0 0;
   color: #ffffff;
   margin-bottom: 40px;
+}
+.line{
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 0;
+}
+.numbers{
+  color: #b88b58;
+font-family: Montserrat;
+font-size: 48px;
+font-weight: 700;
+line-height: 28px;
+}
+.para-1{
+color: #7e7e7e;
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 300;
+line-height: 21px;
+padding-top: 30px;
+}
+.para-2{
+  color: #7e7e7e;
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 300;
+line-height: 21px;
+padding-top: 5px;
+}
+.tit-3{
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 24px;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+}
+.share-sec{
+  margin-top: 20px;
+}
+.justify-center{
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.share{
+    color: #aeaeae;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    margin: 0;
+    margin-top: 20px;
+    margin-top: 0;
+    margin-right: 80px;
+}
+
+.fa-share-alt{
+  color: #aeaeae;
+  margin-right: 15px;
+}
+.number-1{
+  color: #aeaeae;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-right: 35px;
+    margin-left: 8px;
+}
+.align-center{
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 /*# sourceMappingURL=style.prefixed.css.map */
