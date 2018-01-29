@@ -370,7 +370,7 @@ body {
   color: #242424;
 }
 
-.social {
+.social-1 {
   margin: 0;
   padding: 0 0 20px 0;
 }
@@ -656,6 +656,7 @@ font-size: 12px;
 font-weight: 300;
 line-height: 21px;
 padding-top: 30px;
+padding-bottom: 30px;
 }
 .para-2{
   color: #7e7e7e;
@@ -676,7 +677,9 @@ padding-top: 5px;
   margin: 0;
 }
 .share-sec{
-  margin-top: 20px;
+height: 90px;
+border-bottom: 2px solid #cfcfcf;
+font-family: 'Montserrat', sans-serif;
 }
 .justify-center{
   -webkit-box-pack: center;
